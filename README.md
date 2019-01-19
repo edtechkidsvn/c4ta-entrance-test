@@ -51,6 +51,12 @@ This is our new sequence:
 1, 5, -9
 ```
 
-10. Viết một hàm tên là `quadro` (phương trình bậc hai), nhận vào 3 số `a`, `b`, `c` là 3 hệ số của một phương trình bậc hai (`ax^2 + bx + c`) và trả về nghiệm của phương trình bậc hai này.
+9. Viết một hàm tên là `quadro` (phương trình bậc hai), nhận vào 3 số `a`, `b`, `c` là 3 hệ số của một phương trình bậc hai (`ax^2 + bx + c`) và trả về nghiệm của phương trình bậc hai này.
 
 Chú ý: Người thực hiện có thể thử không viết hàm trước, tuy nhiên câu này chỉ được tính khi **hàm quadro được viết hoàn chỉnh và được kiểm tra**
+
+Chú ý: nếu đã biết khai báo và dùng hàm ở ngôn ngữ khác mà chưa biết thực hiện những việc này ở trong Python, tham khảo các tài liệu sau:
+
+[How to think like computer scientist - Python 3](http://openbookproject.net/thinkcs/python/english3e/functions.html)
+
+[Hàm trong python](https://toidicode.com/ham-trong-python-352.html)
