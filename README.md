@@ -67,7 +67,7 @@ Tiếng Việt:
 
 ![Counter diagram](counter_cd.png)
 
-Viết hàm khởi tạo (__init__) cho class này, trong hàm khởi tạo, cho count = 0
+Viết hàm khởi tạo (__init__) cho class này, trong hàm khởi tạo, cho `count` = 0
 
 Viết hàm `tick()`, mỗi khi `tick()` được gọi, tặng `count` lên 1
 
