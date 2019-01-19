@@ -62,3 +62,21 @@ Tiếng Anh:
 
 Tiếng Việt:
 [Hàm trong python](https://toidicode.com/ham-trong-python-352.html)
+
+10. Viết một class có tên là `Counter`, có 1 thuộc tính (property) là `count` và hai phương thức là `tick()` và `reset()`
+
+![Counter diagram](counter_cd.png)
+
+Viết hàm khởi tạo (__init__) cho class này, trong hàm khởi tạo, cho count = 0
+
+Viết hàm `tick()`, mỗi khi `tick()` được gọi, tặng `count` lên 1
+
+Viết hàm `reset()`, mỗi khi `reset()` được gọi, đưa `count` về 0
+
+Nếu chưa biết về class và object của python, tham khảo các tài liệu sau:
+
+Tiếng Anh
+[Class in python - basics](http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html)
+
+Tiếng Việt
+[Class trong Python](https://toidicode.com/class-va-cach-khai-bao-class-trong-python-357.html)
