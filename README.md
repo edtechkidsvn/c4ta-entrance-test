@@ -55,7 +55,7 @@ This is our new sequence:
 
 Chú ý: Người thực hiện có thể thử không viết hàm trước, tuy nhiên câu này chỉ được tính khi **hàm quadro được viết hoàn chỉnh và được kiểm tra**
 
-Chú ý: nếu đã biết khai báo và dùng hàm ở ngôn ngữ khác mà chưa biết thực hiện những việc này ở trong Python, tham khảo các tài liệu sau:
+__Chú ý: nếu đã biết khai báo và dùng hàm ở ngôn ngữ khác mà chưa biết thực hiện những việc này ở trong Python, tham khảo các tài liệu sau:__
 
 [How to think like computer scientist - Python 3](http://openbookproject.net/thinkcs/python/english3e/functions.html)
 
