@@ -73,7 +73,7 @@ Viết hàm `tick()`, mỗi khi `tick()` được gọi, tặng `count` lên 1
 
 Viết hàm `reset()`, mỗi khi `reset()` được gọi, đưa `count` về 0
 
-Nếu chưa biết về class và object của python, tham khảo các tài liệu sau:
+_Chú ý: Nếu chưa biết về class và object của python, tham khảo các tài liệu sau:_
 
 Tiếng Anh
 [Class in python - basics](http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html)
