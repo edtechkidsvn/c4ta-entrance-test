@@ -53,4 +53,4 @@ This is our new sequence:
 
 10. Viết một hàm tên là `quadro` (phương trình bậc hai), nhận vào 3 số `a`, `b`, `c` là 3 hệ số của một phương trình bậc hai (`ax^2 + bx + c`) và trả về nghiệm của phương trình bậc hai này.
 
-Chú ý: Người thực hiện có thể thử không viết hàm trước, tuy nhiên câu này chỉ được tính khi **hàm quadro được viết hoàn chỉnh và kiểm tra**
+Chú ý: Người thực hiện có thể thử không viết hàm trước, tuy nhiên câu này chỉ được tính khi **hàm quadro được viết hoàn chỉnh và được kiểm tra**
