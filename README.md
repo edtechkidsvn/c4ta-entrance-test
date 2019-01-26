@@ -85,4 +85,4 @@ Tiếng Việt
 - Tìm số bé nhất trong 1 dãy số
 - Tính giai thừa của 1 dãy số
 - Tính một số trong dãy fibbonacii `f(n) = f(n - 1) + f(n - 2)` và `f(0) = 1`, với `n` nhập từ người dùng
-- Tìm ước số chung lớn nhất của 2 số bằng phương pháp Euclid, [Link tham khảo tiếng anh](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+- Tìm ước số chung lớn nhất của 2 số bằng phương pháp Euclid, Link tham khảo: [Tiếng anh](https://en.wikipedia.org/wiki/Euclidean_algorithm), [Tiếng Việt](https://vi.wikipedia.org/wiki/%C6%AF%E1%BB%9Bc_s%E1%BB%91_chung_l%E1%BB%9Bn_nh%E1%BA%A5t)
