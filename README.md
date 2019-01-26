@@ -91,3 +91,4 @@ Tiếng Việt
     - [Youtube video](https://www.youtube.com/watch?v=B0NtAFf4bvU)
   - Tiếng Việt
     - [Wiki](https://vi.wikipedia.org/wiki/%C6%AF%E1%BB%9Bc_s%E1%BB%91_chung_l%E1%BB%9Bn_nh%E1%BA%A5t)
+- Đảo chiều 1 dãy (số hoặc chữ)
