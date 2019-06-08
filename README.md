@@ -84,7 +84,7 @@ Tiếng Việt
 11. Viết các chương trình sau, sử dụng đệ quy
 - Tìm số bé nhất trong 1 dãy số
 - Tính giai thừa của 1 số nhập bởi người dùng
-- Tính một số trong dãy fibbonacii `f(n) = f(n - 1) + f(n - 2)` và `f(0) = 1`, với `n` nhập từ người dùng
+- Tính một số trong dãy fibbonacii `f(n) = f(n - 1) + f(n - 2)` và `f(0) = 1`, `f(1) = 1` với `n` nhập từ người dùng
 - Tìm ước số chung lớn nhất của 2 số bằng phương pháp Euclid, Link tham khảo:
   - Tiếng anh:
     - [Wiki](https://en.wikipedia.org/wiki/Euclidean_algorithm),
